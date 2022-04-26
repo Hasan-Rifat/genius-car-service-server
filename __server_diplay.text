@@ -10,5 +10,4 @@ HeroKu setup account
     1 - heroku crete
     2 - make sure you : git add . git commit git push
     3 - git push heroku main
-    4 - 
-    5 - 
+   
