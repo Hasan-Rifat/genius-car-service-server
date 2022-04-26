@@ -10,4 +10,16 @@ HeroKu setup account
     1 - heroku crete
     2 - make sure you : git add . git commit git push
     3 - git push heroku main
-   
+    4 - go push HeroKu Dashboard > Current Project > settings > Reveal Config
+    5 - copy paste config vars from my .env file 
+    6 - Make sure I have whitelisted all ip addresses to access mongodb
+
+3. UPDATE SERVER with new Changes
+    1 - Make Changes 
+    2 - make sure you : git add . git commit git push
+    3 - git push heroku main
+    4 - 
+    5 - 
+    6 - 
+
+4. Connect Server with client
